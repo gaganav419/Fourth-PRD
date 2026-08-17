@@ -1,0 +1,29 @@
+================================
+   STUDENT PRACTICE TRACKER
+================================
+
+Enter Student Name:
+Anu
+Enter Course Name:
+java
+Enter Completed Topics:
+4
+Enter Questions Solved:
+26
+
+================================
+            MENU
+================================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+1
+
+Student Name : Anu
+Course Name  : java
+
+================================

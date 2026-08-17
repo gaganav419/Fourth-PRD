@@ -1,0 +1,14 @@
+================================
+            MENU
+================================
+1. View Student Details
+2. View Progress
+3. Add Completed Topics
+4. Add Solved Questions
+5. Exit
+
+Enter your choice:
+2
+
+Completed Topics : 4
+Questions Solved : 26
